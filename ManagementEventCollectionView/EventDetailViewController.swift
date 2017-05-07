@@ -19,8 +19,6 @@ class EventDetailViewController: UIViewController {
     var day: String?
     
     override func viewDidLoad() {
-        
-        
         super.viewDidLoad()
         
         lblDay.text = day
